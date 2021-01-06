@@ -1,4 +1,4 @@
-def my_Func():
+def my_func():
     string='Cppsecrets'
     n=len(string)
     arr=[]
@@ -8,5 +8,5 @@ def my_Func():
           arr.append(a)
           print(arr)
 
-def my_Func():
+def my_func():
     pass
